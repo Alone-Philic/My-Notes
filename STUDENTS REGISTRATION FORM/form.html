@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<title>Reg Form</title>
+		<style>
+		.inputs{
+			margin:0 0 0 50px;
+		}
+		</style>
+	</head>
+<body>
+	
+		<h2>STUDENT REGISRTATION FORM</h2>
+	
+	<form>
+		<label  for="name">
+			Name :
+		</label>
+		<input type="text" id="name">
+		<br>
+		<br>
+		<label for="date">
+			DOB  :  
+		</label>
+		<input type="date" id="date">
+		<br>
+		<br>
+		<label >
+			Gender :
+		</label>
+		<div>
+			<label for ="male" class="inputs">MALE</label>
+			<input type="radio" id="Male" name="gender">
+				<br>
+			<label for ="female"class="inputs">FEMALE</label>
+			<input type="radio" id="Female" name="gender">
+		</div>
+			<br>
+		
+			Address :
+			<br>
+		
+		<textarea class="inputs" style="width: 400px; height: 97px;"></textarea>
+		<br>
+		<br>
+	<div>
+		<label>
+			Qualification :
+		</label>
+		<select>
+		<option>
+			8th
+		</option>
+		<option>
+			SSLC
+		</option>
+		<option>
+			Plus Two
+		</option>
+		</select>
+	</div>
+<br>
+	<label>Languages Known :</label> 
+		<br>
+		<br>
+	<label for="english" class="inputs">ENGLISH</label>
+	<input id="english" type="checkbox">
+		<br>
+	<label for="hindi" class="inputs">HINDI</label>
+	<input id="hindi" type="checkbox">
+	<br>
+	<label for="malayalam" class="inputs">MALAYALAM</label>
+	<input id="malayalam" type="checkbox">
+<br>
+<br>
+	<label for="mobile">Mobile :</label>
+		<br>
+			<input id="mobile" type="number"
+				<br>
+			<br>
+	<label for="mail">Mail :</label>
+		<br>
+			<input id="mail" type="email">
+			<br>
+			<br>
+			<button type="submit">Submit</button>
+	</form>		
+</body>
+</html>
