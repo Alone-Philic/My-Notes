@@ -5,7 +5,7 @@
 <p align="center">
 <ul>
 <li><b><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/HTML">HTML</a></b></li>
-<li><b><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming">C Programming</a></b></li>
+<li><b><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming/Class">C Programming</a></b></li>
 <li><b><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/Other%20Notes">Other Notes</a></b></li>
 </ul>
 </p>
