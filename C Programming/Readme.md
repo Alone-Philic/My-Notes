@@ -15,10 +15,10 @@
 
 <h2>Results :</h2>
 <ul>
-<li><a href=" ">Hello</a></li>
-<li><a href=" ">Enter a Number</a></li>
-<li><a href=" ">Sum</a></li>
-<li><a href=" ">Interest</a></li>
+<li><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming/Results/Hello">Hello</a></li>
+<li><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming/Results/Enter%20a%20Number">Enter a Number</a></li>
+<li><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming/Results/Sum">Sum</a></li>
+<li><a href="https://github.com/Alone-Philic/My-Notes/tree/alone-patch/C%20Programming/Results/Interest">Interest</a></li>
 </ul>
 
 </center>
