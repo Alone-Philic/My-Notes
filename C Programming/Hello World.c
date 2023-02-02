@@ -3,7 +3,7 @@
  Name        : Sample.c
  Author      : AlonePhilic
  Version     : 0.01
- Copyright   : Your copyright notice
+ Copyright   : GNU GENERAL PUBLIC LICENSE
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
